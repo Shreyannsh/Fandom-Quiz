@@ -7,3 +7,4 @@ it uses -
 - for loop
 - arrays
 
+Checkout - https://replit.com/@ShreyanshTiwar2/Big-bang-Theory?embed=1&output=1
